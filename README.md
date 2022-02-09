@@ -1,1 +1,2 @@
 # odin-recipes
+An HTML website showcasing a few classic Italian recipes! In this project, I showcased the following elements and tags: doctype element, html element, head element, title tag, meta tag for charset paragraph element, body element, heading element, unordered list element, ordered list element, anchor element (with attribute), and image element.
